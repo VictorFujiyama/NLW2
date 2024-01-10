@@ -76,7 +76,7 @@
 }
 
 @media (min-width: 700px) {
-    
+
     .teacher-item header,
     .teacher-item footer {
         padding: 3.2rem;
@@ -88,7 +88,7 @@
 
     .teacher-item footer p strong {
         display: initial;
-        margin-left: 1.6;
+        margin-left: 1.6rem;
     }
 
     .teacher-item footer button {
